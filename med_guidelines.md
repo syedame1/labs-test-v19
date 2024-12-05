@@ -93,42 +93,84 @@ Examine the environment for hazards which may contribute to the risk of falling.
 
 ## General principles
 
-Documentation must be accurate and complete.
-Comprehensive documentation is particularly important when a patient is not transported to a medical facility.
-Documentation must be objective and subjective statements avoided. Take particular care to avoid subjective statements about the behaviour or demeanour of the patient, their family/whānau or other healthcare professionals.
-As a general rule, a third party (for example, The Health and Disability Commissioner) will assume that if something is not recorded it did not occur.
-A third party should be able to read the documentation and understand what happened and why.
-One person will usually lead the patient assessment and treatment and this person should usually complete the PRF. However, all clinical personnel in the crew are responsible for ensuring the documentation is accurate and complete.
-A separate PRF is required for each patient assessed. This includes for example, a separate PRF for a mother and her newborn baby.
+* Documentation must be accurate and complete.
+* Comprehensive documentation is particularly important when a patient is not transported to a medical facility.
+* Documentation must be objective and subjective statements avoided. Take particular care to avoid subjective statements about the behaviour or demeanour of the patient, their family/whānau or other healthcare professionals.
+* As a general rule, a third party (for example, The Health and Disability Commissioner) will assume that if something is not recorded it did not occur.
+* A third party should be able to read the documentation and understand what happened and why.
+* One person will usually lead the patient assessment and treatment and this person should usually complete the PRF. However, all clinical personnel in the crew are responsible for ensuring the documentation is accurate and complete.
+* A separate PRF is required for each patient assessed. This includes for example, a separate PRF for a mother and her newborn baby.
 
-## Information documented in the Patient Report Form (PRF)
+## Patient Report Form (PRF) Requirements:
 
-  The PRF must include all of the following:
-  The patient details (including NHI if possible).
-  The history and assessment of the patient.
-  A description of all significant treatment administered and/or interventions provided prior to ambulance arrival.
-  All treatment administered and interventions provided by ambulance personnel or by people assisting ambulance personnel, for example, PRIME responders.
-  A description of any clinical advice or information received.
-  At least one set of vital signs. See the ‘vital signs’ section for more information.
-  Known allergies to medicines.
-  The PRF must contain all relevant information for the entire incident if the care and/or transport of the patient is transferred from one crew to another.
-  The use of abbreviations should be minimised.
-  Terminology specific to ambulance personnel (for example R codes) must not be used
-  When a patient is assessed following dispatch of an ambulance and not transported to a medical facility, the documentation must include all the following:
-  The patient and incident details, the assessment, all treatment administered, all interventions performed and at least one set of vital signs. See the ‘vital signs’ section for more information.
-  A clear description of the recommendation made to the patient and/or family/whānau/guardians/caregivers, including why the recommendation was made.
-  A clear description of the communication between ambulance personnel and the patient and/or family/whānau/guardians/caregivers if a recommendation to be transported to a medical facility by ambulance is declined.
-  A competent patient or guardian must be asked to sign the ‘patient declined transport’ section of the PRF if they decline a recommendation for transport to a medical facility by ambulance. They must not be asked to  sign the ‘patient declined transport’ section of the PRF if they are deemed not competent to make decisions, or if a recommendation was made that transport to a medical facility by ambulance was not required.
-  An electronic copy (or photograph) of the 12 lead ECG if one was acquired.
-  A completed non-transport pause and checklist.
-  When a patient is not transported to a medical facility, advice on when to seek further clinical assessment and/or treatment should be provided:
-  Advice should be provided in writing whenever this is feasible, for example using an ambulance care summary (ACS) advice sheet.
-  Where applicable, information sheets (such as the concussion information sheet) must be provided.
-  Written advice should be photographed using the ePRF device.
-  Advice should be provided to:
-  The patient if they appear to be competent.
-  An appropriate person, for example a guardian or caregiver, if the patient appears to be not competent.
-  A parent or guardian if the patient is a child
+### Information to be Documented in the PRF
+
+#### Patient Details
+- Patient information (including NHI if possible)
+- History and assessment of the patient
+
+#### Treatment and Interventions
+- Description of all significant treatment administered and/or interventions provided prior to ambulance arrival
+- All treatment administered and interventions provided by ambulance personnel or by people assisting ambulance personnel
+
+### Clinical Advice and Information
+- Description of any clinical advice or information received
+
+#### Vital Signs
+- At least one set of vital signs (see the ‘vital signs’ section for more information)
+
+#### Allergies and Medications
+- Known allergies to medicines
+
+#### Incident Information
+- The PRF must contain all relevant information for the entire incident if the care and/or transport of the patient is transferred from one crew to another
+
+### Documentation Guidelines
+- The use of abbreviations should be minimised
+- Terminology specific to ambulance personnel (for example R codes) must not be used
+
+## Additional Requirements for Non-Transport Incidents
+
+### Patient and Incident Details
+- The patient and incident details, the assessment, all treatment administered, all interventions performed, and at least one set of vital signs
+
+#### Recommendation and Communication
+- A clear description of the recommendation made to the patient and/or family/whānau/guardians/caregivers, including why the recommendation was made
+- A clear description of the communication between ambulance personnel and the patient and/or family/whānau/guardians/caregivers if a recommendation to be transported to a medical facility by ambulance is declined
+
+#### Patient Declined Transport
+- A competent patient or guardian must be asked to sign the ‘patient declined transport’ section of the PRF if they decline a recommendation for transport to a medical facility by ambulance
+
+#### Additional Documentation
+- An electronic copy (or photograph) of the 12 lead ECG if one was acquired
+- A completed non-transport pause and checklist
+
+### Providing Advice to Patients
+
+#### Advice on Further Assessment and Treatment
+- Advice should be provided in writing whenever this is feasible, for example using an ambulance care summary (ACS) advice sheet
+- Where applicable, information sheets (such as the concussion information sheet) must be provided
+
+#### Providing Advice to Patients and Guardians
+- Advice should be provided to:
+  - The patient if they appear to be competent
+  - An appropriate person, for example a guardian or caregiver, if the patient appears to be not competent
+  - A parent or guardian if the patient is a child
+
+### Checking the PRF before Finalisation and Submission
+
+#### Responsibility for Checking the PRF
+- All clinical personnel in the crew that assessed the patient are responsible for ensuring the PRF is checked if the patient is not transported to a medical facility
+- All clinical personnel in the crew that transported the patient are responsible for ensuring the PRF is checked
+
+#### PRF Check Requirements
+| **Requirement**         | **Description**                                                                                                                                 |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Completion**           | All appropriate sections have been completed                                                                                                 |
+| **Accuracy**             | The information is accurate and free of errors                                                                                              |
+| **Adequacy**             | The information adequately reflects all that occurred, in a manner that ensures a third party could read the PRF and understand what happened |
+| **Controlled Medicines** | The discarding of controlled medicines that were drawn up but not administered is documented, including documentation that this has been witnessed by a second crew member whenever possible |
+
   
   ## Checking the PRF before it is finalised and submitted
 
