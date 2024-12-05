@@ -172,14 +172,16 @@ Examine the environment for hazards which may contribute to the risk of falling.
 | **Controlled Medicines** | The discarding of controlled medicines that were drawn up but not administered is documented, including documentation that this has been witnessed by a second crew member whenever possible |
 
   
-  ## Checking the PRF before it is finalised and submitted
+## Checking the PRF before Finalisation and Submission
 
-  The PRF must be checked to ensure it is complete and accurate prior to it being finalised and submitted, unless the crew are required to immediately respond to an urgent incident.
-  All clinical personnel in the crew that assessed the patient are responsible for ensuring the PRF is checked if the patient is not transported to a medical facility.
-  All clinical personnel in the crew that transported the patient are responsible for ensuring the PRF is checked.
-  The PRF check must include confirmation that:
-  All appropriate sections have been completed.
-  The information is accurate and free of errors.
-  The information adequately reflects all that occurred, in a manner that ensures a third party could read the PRF and understand what happened.
-  The discarding of controlled medicines that were drawn up but not administered is documented, including documentation that this has been witnessed by a second crew member whenever possible.
-  
+### Checking the PRF before it is Finalised and Submitted
+- The PRF must be checked to ensure it is complete and accurate prior to it being finalised and submitted, unless the crew are required to immediately respond to an urgent incident.
+- All clinical personnel in the crew that assessed the patient are responsible for ensuring the PRF is checked if the patient is not transported to a medical facility.
+- All clinical personnel in the crew that transported the patient are responsible for ensuring the PRF is checked.
+
+### PRF Check Requirements
+The PRF check must include confirmation that:
+- All appropriate sections have been completed.
+- The information is accurate and free of errors.
+- The information adequately reflects all that occurred, in a manner that ensures a third party could read the PRF and understand what happened.
+- The discarding of controlled medicines that were drawn up but not administered is documented, including documentation that this has been witnessed by a second crew member whenever possible.
