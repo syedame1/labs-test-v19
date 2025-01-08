@@ -8,21 +8,13 @@ RIN 3170-AA78
 
 ## Required Rulemaking on Personal Financial Data Rights
 
-AGENCY:
-
 Consumer Financial Protection Bureau.
 
-ACTION:
-
 Final rule.
-
-SUMMARY: The Consumer Financial Protection Bureau (CFPB) is issuing a final rule to carry out the personal financial data rights established by the Consumer Financial Protection Act of 2010 (CFPA). The final rule requires banks, credit unions, and other financial service providers to make consumers' data available upon request to consumers and authorized third parties in a secure and reliable manner; defines obligations for third parties accessing consumers' data, including important privacy protections; and promotes fair, open, and inclusive industry standards.
 
 ## DATES: This final rule is effective [INSERT DATE 60 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER ].
 
 Compliance dates: Data providers must comply with the requirements in subparts B and C beginning April 1, 2026; April 1, 2027; April 1, 2028; April 1, 2029; or April 1, 2030, depending on the criteria set forth in § 1033.121(c).
-
-FOR FURTHER INFORMATION CONTACT: George Karithanom, Regulatory Implementation and Guidance Program Analyst, Office of Regulations, at 202-435-7700 or
 
 BILLING CODE: 4810-AM-P
 
@@ -218,8 +210,6 @@ Before and after issuing the proposal, CFPB staff met on numerous occasions to o
 
 ## B. Summary of the Proposed Rule
 
-On October 19, 2023, the CFPB released the Notice of Proposed Rulemaking for the Required Rulemaking on Personal Financial Data Rights. The proposal was published in the Federal Register on October 31, 2023, and the public comment period closed on December 29, 2023. See 88 FR 74796 (Oct. 31, 2023).
-
 ## Part 1033
 
 The proposal would have implemented CFPA section 1033 by ensuring consumers and third parties who are authorized to access covered data on behalf of consumers can access covered data in an electronic form from data providers. In general, the proposal sought to foster a data access framework that is safe, by ensuring third parties are acting on behalf of consumers when accessing their data, including with respect to consumers' privacy interests; secure, by applying a consistent set of security standards across the market; reliable, by promoting the
@@ -233,8 +223,6 @@ intended to transition the market from screen scraping towards an access method 
 ## Part 1001
 
 Separately, the proposed rule would have defined financial products or services under the CFPA in 12 CFR part 1001 to ensure that the definition includes providing financial data processing. The proposal explained that this would provide additional assurance that financial data processing by third parties or others is subject to the CFPA and its prohibition on unfair, deceptive, and abusive acts or practices.
-
-## Comments
 
 The CFPB received approximately 11,120 public comments on the proposal during the comment period.$^{25}$ Approximately 290 of these comments were unique, detailed comment letters. These commenters included data providers and third parties, including banks of different sizes, credit unions, a variety of nondepository entities, and data aggregators;$^{26}$ trade associations representing a diverse array of interests; standard-setting organizations;$^{27}$ consumer advocates;$^{28}$ researchers and a variety of research institutes; members of Congress; government agencies; law firm s; and individual commenters not affiliated with or representing any organization.
 
@@ -328,8 +316,6 @@ identifiable data. Many data providers expressed concern that they would be obli
 
 Some data provider and third party commenters also raised concerns about the CFPB's legal authority for parts of the proposal. Some commenters also suggested that the CFPB consider consumer data sharing rules in other jurisdictions in drafting the final rule, but without clear consensus on what did or did not work in other jurisdictions.
 
-## Response to comments
-
 The CFPB agrees with the general comments about implementing CFPA section 1033 to ensure data providers not only provide data access to consumers directly but also provide access for consumers' authorized third party representatives. As discussed in part III and part IV.C.2, this aspect of the rule is consistent with the plain language and objectives of section 1033 and the CFPA more broadly. In addition, the CFPB agrees that this aspect of the rule will increase opportunities for both depository and nondepository institutions to provide better products or services to consumers and enable consumers to manage their financial lives using data under the control or possession of data providers.
 
 The CFPB also agrees with commenters that supported the general approach to third party access. As discussed in part IV.D, the third party access provisions of the final rule are designed to ensure, consistent with carrying out the objectives of CFPA section 1033, that consumers provide informed consent to third parties that access covered data pursuant to the final rule's framework, that consumers retain control over third parties' access, and that third parties act on behalf of consumers when collecting, using, and retaining covered data.
@@ -356,11 +342,7 @@ parties are acting on behalf of consumers. With respect to comments about third 
 
 The CFPB issued the proposed rule on its website on October 19, 2023, and published it in the Federal Register on October 31, 2023, with comments due by December 29, 2023. Some commenters asserted that the CFPB's comment period should have been longer. One commenter disagreed and suggested that requests to extend the comment period were pretextual efforts to delay implementation.
 
-The Administrative Procedure Act does not specify a particular period of time for a public comment period,$^{33}$ and the comment period in this rulemaking was sufficient. This is illustrated by, among other things, the many detailed comments the CFPB received from stakeholders of all types, sizes, and viewpoints. Additionally, as noted above in part II, the CFPB has engaged in extensive public outreach since 2016 related to consumer-authorized data sharing, including through an RFI, an ANPR, and the SBREFA process. The CFPB also has taken various steps in response to the specific concerns raised with respect to the substantive provisions of the proposal. In particular, as discussed in part IV.A.4, the CFPB has determined to not finalize the rule with respect to small depository institution data providers.
-
 ## 3. Comments regarding liability among commercial entities
-
-## Comments received
 
 Many commenters addressed the general topic of liability. A number of data provider commenters, academic researchers, and research institute commenters predicted that the final rule would increase the volume of sensitive financial data accessed by third parties, particularly
 
@@ -388,8 +370,6 @@ Data provider commenters also recommended that the rule address liability by sub
 
 A data provider commenter requested that the final rule clarify whether the data provider has any liability in the context of specific provisions of the proposal: (1) if a third party collects more information than is necessary to offer a specific product or service; and (2) if a data breach occurs because an authorized third party does not delete data after a consumer revokes its authorization or does not timely communicate the revocation to a data aggregator.
 
-## Response to comments
-
 The CFPB has determined it would not be appropriate for this rule to impose a comprehensive approach to assigning liability among commercial entities or safe harbors from the requirements of EFTA and Regulation E or TILA and Regulation Z. The ability of payees to initiate electronic payments has existed for decades and the Regulation E concerns raised by commenters are not specific to CFPA section 1033. Although this rule facilitates sharing of payment initiation information with third parties so that they can initiate electronic payments, the rule does not require account write access or otherwise require payment initiation. Applicable payment authorization requirements continue to separately apply. As noted in the proposal, consumers have a statutory right under EFTA to resolve errors through their financial institution, while private network rules, contracts, and other laws address which payment market participant is ultimately liable for unauthorized transfers and other payment errors. As discussed further below, the U.S. payment system allows non-bank payees to initiate payments through their depository institution, and those partner depository institutions also bear responsibility for who is allowed to access the payment networks.
 
 The CFPB is aware that it is common for non-bank payees, such as utility companies, charities, non-bank lenders, community organizations, and other billers, to initiate payments through their depository institution. The payee's depository institution, referred to as an originating depository financial institution in the context of ACH payments, is responsible for ensuring that any payments it initiates on the payee's behalf are correct and authorized, as they are subject to private network rules and safety and soundness requirements related to risk
@@ -408,13 +388,9 @@ The CFPB also notes that commenters did not provide legal analysis or factual ev
 
 Electronic Fund Transfer Act and Regulation E
 
-## Comments
-
 In addition to the liability comments discussed above, some data provider commenters specifically commented on the applicability of EFTA and Regulation E. Some data provider commenters asked the CFPB to apply Regulation E error investigation requirements to all third
 
 parties. A few data provider commenters stated that the CFPB should clarify that data aggregators are Regulation E service providers, asserting that the data aggregator is in the best position to control for risks related to the transactions it permits a consumer to conduct through its system. A trade association representing data providers asked the CFPB to clarify that a data access agreement between an aggregator and data provider is an "agreement" for purposes of the Regulation E service provider provision. A data provider commenter asked the CFPB to clarify that, if a third party is a Regulation E financial institution, such as a digital wallet provider that obtains permissioned data access under CFPA section 1033, it would have error resolution responsibilities for payments initiated using data obtained from the developer interface and that such digital wallet providers should be required to provide their contact information to consumers.
-
-## Response to comments
 
 The CFPB has determined that it is not appropriate or practical to deny consumers their statutory right to resolve errors through their financial institution and this final rule does not change such rights under EFTA and Regulation E. The Regulation E definition of financial institution means a bank, savings association, credit union, or any other person that directly or indirectly holds an account belonging to a consumer, or that issues an access device and agrees with a consumer to provide electronic fund transfer services.$^{35}$ The CFPB declines to expand the scope of the Regulation E service provider provision to data aggregators, because doing so would limit consumers' ability to resolve errors and unauthorized transactions through their account-holding financial institution. Whether a given entity is a service provider for a given electronic fund transfer will depend on the relationship between the entities involved in making
 
@@ -422,11 +398,7 @@ that individual transfer, not whether the payee used payment credentials shared 
 
 Data providers and third parties that are Regulation E financial institutions-including digital wallet providers, person-to-person payment providers, entities that refer to themselves as neobanks, and traditional depository institutions-have and will continue to have error resolution obligations in the event of a data breach where stolen account or ACH credentials are used to initiate an unauthorized transfer from a consumer's account and the consumer provides proper notice. These error resolution obligations include requirements on the financial institution to provide consumers with the financial institution's contact information.
 
-## Fair Credit Reporting Act and Regulation V
-
 The proposal noted that a third party engaged in data aggregation activities could be a consumer reporting agency under the FCRA if it met the elements of the FCRA's definition of "consumer reporting agency."
-
-## Comments
 
 Some commenters addressed the applicability of the FCRA. Many data providers and data provider trade association commenters stated that the final rule should provide that data providers are not furnishers when they provide data pursuant to consumer authorization. These commenters asserted that the compliance burden of being a furnisher is significant and could overwhelm smaller financial institutions. They also argued that, unlike traditional furnishing, data providers sharing data under CFPA section 1033 are simply facilitating consumers' requests to access their data.
 
@@ -441,8 +413,6 @@ is complex and confusing when applied in the context of consumer-authorized data
 Several commenters raised questions about the intersection of the final rule and the FCRA, including the extent of overlap, duplication, or conflict between the final rule and the FCRA. These commenters asked for clarification on various specific questions, including: which activities would make a data provider an FCRA-covered furnisher; which use limitation standard applies if consumer-authorized data are subject to both the final rule and the FCRA; which activities would make a data aggregator a consumer reporting agency; whether data aggregators that are consumer reporting agencies would have to provide consumer reports to consumers at their request; how data aggregators that are consumer reporting agencies would comply with their FCRA dispute obligations if data providers are not FCRA-covered furnishers; how data aggregators that are consumer reporting agencies could maintain accurate consumer reports given the proposed limits on retention; which uses of covered data constitute permissible purposes under the FCRA; whether third parties can be both data aggregators under the final rule and consumer reporting agencies under the FCRA; whether financial institutions may combine disclosures and consent forms required by the final rule and the FCRA; whether specialty consumer reporting agencies may collect and retain consumer-authorized transaction data to comply with the FCRA; and whether information from de-identified consumer reports used for research purposes could also be covered data subject to the proposed restrictions on secondary use.
 
 Finally, some commenters stated that the CFPB should coordinate the FCRA and Personal Financial Data Rights rulemakings.$^{37}$ A bank trade association and credit union trade association stated that until one of these rules had been finalized, they could not fully understand the impacts of one rule on the other. A data provider/third party trade association commenter suggested pausing the FCRA rulemaking until the Personal Financial Data Rights rulemaking is finalized to fully understand each rule's impact. A consumer reporting agency commenter, an industry trade association commenter, and a financial holding company commenter requested that the Personal Financial Data Rights final rule be issued before the FCRA proposed rule. The industry trade association commenter and financial holding company commenter asserted that concurrent rulemaking adversely impacts the public's ability to meaningfully comment on each proposal. A bank trade association commenter recommended postponing compliance with this final rule until after an FCRA rule is finalized, while a data aggregator commenter asked the CFPB to wait until after this rule is finalized to address the applicability of the FCRA to data aggregators. And a research institute commenter suggested that certain definitions, such as those relating to data aggregators and FCRA-covered furnishers, be harmonized between the final rule and the FCRA rulemaking.
-
-## Response to comments
 
 As an initial matter, the CFPB has determined that this final rule does not affect a person's obligations or duties under the FCRA. The final rule does not alter the types of data, parties, or permissible purposes covered by the FCRA. Because the final rule does not change
 
@@ -467,8 +437,6 @@ CFPB is substantially revising the compliance deadlines for data providers under
 ## Gramm-Leach-Bliley Act and Regulation P
 
 A few commenters addressed the general applicability of the GLBA and Regulation P, 12 CFR part 1016. Several commenters asked for clarity about how financial institutions should comply when data are subject to both the GLBA and the Personal Financial Data Rights rule. For example, a bank commenter and a bank trade association commenter asked which use limitation standard would apply. A third party commenter suggested that the CFPB rely on existing authorities and not impose new regulations on the collection, use, and retention of covered data where the collection, use, and retention of the data may be addressed by other laws, including the GLBA. A research institute commenter asserted that consumers might be confused if they received multiple disclosures.
-
-## Response to comments
 
 The CFPB has determined that the final rule does not affect a person's obligations or duties under the GLBA. In addition, the CFPB has determined that the final rule is not inconsistent with the GLBA or Regulation P. As with the FCRA, some commenters sought clarification about how a person would comply when data are subject to the GLBA and CFPA section 1033, including whether the limitations on collection, use, and retention of data under the final rule would apply where such limitations are not imposed under the GLBA and Regulation P. While the GLBA and Regulation P may permit some uses of information that may
 
@@ -542,8 +510,6 @@ The proposed rule also explained that the CFPB was considering adding EBT-relate
 
 State or local agency are primarily issued to consumers via EBT cards. EBT-related data are mainly accessed directly by the consumer through private entities that have contracted with State or local governments that administer programs for Federal government agencies. The CFPB requested comment on whether the most appropriate way to solve issues related to EBT data accessed directly by the consumer is through section 1033 of the CFPA, and whether it should do so as part of this first rulemaking related to payments data or a subsequent rule under CFPA section 1033. The CFPB also requested comment on third party practices related to consumerauthorized EBT data, and the benefits and drawbacks of enabling third party access to EBTrelated data, including with respect to data security.
 
-## Comments
-
 Many commenters, including third parties and consumer advocates, stated that the proposed coverage was too narrow. Advocated additions included all covered persons and financial products and services under the CFPA, all Regulation Z creditors (such as mortgage, auto, and payday lenders), payroll providers, holders of tax records, electronic bill presentment providers, investment products, retirement accounts, and small business lenders. Some third party commenters asserted that data providers will otherwise restrict or fail to offer access to these data. One bank data provider commenter stated that the narrow scope of coverage could cause consumer confusion. A non-bank data provider that also acts as a third party stated that coverage should be broader because much or all of the covered data are already made available by banks today.
 
 Conversely, many data provider commenters requested narrower coverage, and that the CFPB clarify the rule's applicability, particularly with regard to pass-through payments and payment facilitation providers. Some commenters asked for specific exclusions for products or
@@ -606,8 +572,6 @@ In § 1033.111(d), the CFPB proposed to exclude from the requirements of this ru
 
 depository institutions are less likely to exist for nondepository institutions. The proposed rule also noted that nondepository institution data providers within the scope of the proposed rule tend to use business models built on the ability to innovate using technology and to move quickly to implement technological solutions. The CFPB sought comment on various issues, including whether different or additional criteria, such as an institution's asset size or activity level, should be taken into consideration when determining what depository institutions would be covered by the rule.
 
-## Comments received
-
 Though a few commenters stated that all institutions should be required to comply with the rule, the vast majority of those who commented on this provision stated that some institutions should not. Many credit union, bank, and credit union and bank trade associations commenters stated that the proposed exemption was too limited. Many of these commenters also stated that coverage should be based on asset size, instead of the presence of a consumer interface, and suggested thresholds ranging from $850 million to $10 billion in total assets. Others stated that number of deposit accounts or customers should be relevant to coverage, or that depository institutions under a certain size should be able to "opt out" of the rule's requirements. A few credit union trade association commenters and one credit union commenter stated that there should be tiered exemptions where different tiers of depository institutions would not need to comply with various requirements of the rule: data providers with no consumer interface should be completely excluded, depository institutions that meet the SBA definition of a small business should only be required to provide a consumer interface, and minimum technical specifications should not apply to developer interfaces of depository institutions holding less than $50 billion in assets.
 
 Several nondepository entity trade association commenters and one technology service provider commenter stated that nondepository institutions that do not have digital banking should be exempt from the rule. One nondepository institution trade association commenter stated that there are many nondepository institutions that do not have a consumer interface, including debt collectors.
@@ -663,8 +627,6 @@ Subject to the limitations of proposed §§ 1033.321 and 1033.111(d), proposed �
 and (4) depository institutions with under $850 million in total assets would have been required to comply approximately four years after Federal Register publication.
 
 The CFPB sought comment on a number of issues, including whether different or additional criteria should be taken into consideration when determining compliance dates, on the structure of each tier, and whether nondepository institutions should be included in all tiers. The CFPB also sought comment on whether the final rule should include language clarifying the time allowed to fully transition third parties to data access, so as to ensure that data providers do not impede timely third party access to an interface while also accounting for reasonable risk management.
-
-## Comments received
 
 Most commenters that addressed this section stated that a tiered implementation schedule was appropriate, while a few nondepository entity trade association, consumer advocate, and bank trade association and bank commenters stated that such implementation would incentivize data aggregators and third parties to prioritize and work with larger entities and would temporarily create gaps in consumer data access across the market. One consumer advocate commenter also stated that tiered compliance may inadvertently disadvantage smaller institutions because the current speed of digital transformation can benefit larger, more resourced providers who will have a head start on developing norms for interfaces while less resourced providers will have less of a say in how those interfaces are developed. A nondepository entity trade association and a research institute commenter suggested that the CFPB should allow transition time once an API is available to move access gradually to the API and provide for a transition period rather than final compliance dates. Commenters did not specify how the final rule should structure a transition period without final compliance dates. A data aggregator and a third party
 
@@ -917,8 +879,6 @@ When consumers make a request for information concerning a consumer financial pr
 
 possession is likely to be most usable. However, the proposal explained that § 1033.201(b) was not intended to limit a consumer's right to access historical covered data. The CFPB requested comment on whether the provision regarding current data would benefit from additional examples or other clarifications. The CFPB also requested input on issues in the market today with data providers making available only older information that is not fully responsive to a consumer's request.
 
-## Comments
-
 Commenters did not object to a general requirement to make available the most recently updated covered data in the data provider's control or possession at the time of the request. One large data aggregator stated that the proposed data requirement is sufficiently clear, especially because it explains that pending transaction information must be made available. Some data provider commenters asserted that the CFPB should not require information concerning authorized but not yet settled debit card transactions. One data provider commenter stated that requiring pending transaction information is like asking financial institutions to look into a crystal ball to predict the future. The commenter asserted that some merchants, such as gas stations and hotels, send pre-authorizations for dollar amounts higher than the actual transaction amounts to ensure funds are available. Data provider commenters raised similar concerns about pending transaction information with regards to covered data under § 1033.211(a); those comments are discussed further below.
 
 ## Final rule
@@ -949,8 +909,6 @@ The CFPB also requested comment on whether the proposed categories of informatio
 
 The CFPB explained that these provisions would carry out the objectives of CFPA section 1033 of ensuring data are usable by consumers and authorized third parties by focusing on data that stakeholders report are valuable for third party use cases and that are generally under the control or possession of all covered persons. These provisions also would promote the use and development of standardized formats for carrying out the objectives of CFPA section 1033(d) by encouraging industry to focus format standardization efforts around these data categories.
 
-## Comments
-
 Data providers, third parties, and other commenters generally supported the CFPB's categories and examples approach to defining covered data, noting that the categories-plusexamples approach allows market flexibility. Commenters also stated that the proposed categories of covered data would leverage existing legal and operational infrastructure, and that these covered data are generally available on consumer interfaces today. However, some commenters requested additional clarity or narrowing of the covered data categories, such as explaining that the covered data obligations only apply with regards to the covered consumer financial product or service. A few data provider commenters stated that the data categories should be narrowed significantly because they asserted that covering categories like pending transactions, terms and conditions, and upcoming bill information would exceed the CFPB's CFPA section 1033 authority. A few data provider commenters requested more specificity, such as defining all required data fields.
 
 Some third party, consumer advocate, and other commenters requested that the CFPB expand the scope of covered data. For example, one consumer advocate commenter stated that covered data should include login usernames and passwords, challenge question responses, and customer service history. As another example, a third party commenter asked the CFPB to include a consumer identification number that could be linked to all consumer accounts, a consumer's date of birth, the date an account was opened, an account's transferability status, and other account status information. A large data aggregator asked the CFPB to specifically require data providers to provide the consumer's periodic statements as PDF documents. One commenter asked for clarification that, where a data provider is obligated to make available licensed information pursuant to the rule, the data provider does not provide a license to the authorized third party.
@@ -976,8 +934,6 @@ The CFPB discussed how many stakeholders, including third party small entity rep
 12 CFR 1026.25. The CFPB also noted that data providers typically control or possess more than 24 months of historical transaction data and may continue to make more than 24 months available.
 
 The CFPB requested comment on whether the transaction information examples were sufficiently detailed and consistent with market practices, whether to retain the safe harbor for historical transaction data, and whether a different amount of historical transaction data would be more appropriate. The CFPB also requested comment on whether and how the rule should require that data providers make available historical data for other categories of information, such as account terms and conditions, whether such historical data are kept in the ordinary course of business today, and the use cases for such data.
-
-## Comments
 
 Commenters generally did not oppose inclusion of transaction information within the scope of covered data, with some data provider commenters asserting that this information is clearly required under CFPA section 1033. A few data provider commenters asked for additional clarification, such as whether the merchant name field refers to the merchant shown in the transaction description in the periodic statement or other sources like a web-based search about the merchant. Many data provider commenters opposed covering pending transaction information and reiterated concerns raised during the SBREFA process, including arguments that such information is not provided on monthly account statements, falls outside the CFPB's 1033 authority as it is not concerning a product that the consumer "obtained" from the data provider, is confusing for consumers, and could change at settlement so introduces error risk.
 
@@ -1008,8 +964,6 @@ The CFPB discussed how Regulation E account numbers are typically shared through
 statement provisions. Account numbers and routing numbers can be used to initiate a transfer of funds to or from a Regulation E account over the ACH network, enabling common use cases like initiating payments and depositing loan proceeds. Although data providers have recourse under private contracts, private network rules, and commercial law to recover funds stolen by an unauthorized entity, many data providers have expressed concern about their Regulation E obligations and urged the CFPB to allow the sharing of TANs with authorized third parties. The CFPB discussed how these TANs, which are in use today, may help mitigate fraud risks to consumers and data providers. TANs allow data providers to identify compromised points more easily and revoke payment credentials on a targeted basis (rather than issuing a new account number to the consumer). However, some third parties have asserted that TANs do not support certain use cases, such as allowing third parties to print checks to pay vendors, initiating payments by check or wire, and detecting fraud.
 
 The CFPB preliminarily concluded that TANs allow third parties to enable most beneficial payment use cases while mitigating fraud risks, and therefore data providers should have the option of making TANs available to authorized third parties in lieu of full account and routing numbers. The CFPB noted that a TAN would only meet this requirement if it contained sufficient information to initiate payment to or from a Regulation E account. The CFPB requested comment on whether to allow TANs in lieu of non-tokenized account and routing numbers, including whether TANs would mitigate fraud risks and, in contrast, whether TANs have any limitations that could interfere with beneficial consumer use cases, and whether and how adoption and use of TANs might be informed by qualified industry standards. The CFPB also requested comment on whether data providers should also be required to make available information to initiate payments from a Regulation Z credit card.
-
-## Comments
 
 Some data providers and trade associations opposed the proposed requirement to make available information to initiate payment to or from a Regulation E account, stating that sharing such information would introduce liability risks to data providers and consumers and asserting that payment initiation falls outside the CFPB's authority under CFPA section 1033. In contrast, a few other commenters stated that requiring account number would be appropriate and that they generally make this information available to consumers and third parties today. Some data provider commenters expressed their opposition to the growing usage of "pay-by-bank," a phrase sometimes used to describe consumer-to-merchant payment alternatives to the debit and credit card networks. These commenters asserted that the ACH network is not appropriate for third party payments and therefore the CFPB should not require data providers to make available ACH payment initiation information. One trade association representing bank data providers asked the CFPB to clarify that this category does not include the ability to of a third party to initiate creditpush payments from a consumer's account.
 
@@ -1069,8 +1023,6 @@ The CFPB proposed to require terms and conditions be made available as covered d
 
 The CFPB discussed how certain terms and conditions, such as pricing, reward programs terms, and whether an arbitration agreement applies to the product, support beneficial use cases, like comparison shopping and personal financial management. Authorized third parties could use this information to help consumers more easily understand and compare the terms applicable to a covered consumer financial product or service. Since pricing is a fundamental term that is provided in account opening disclosures and change in terms disclosures, the CFPB proposed to include APR, APY, fees, and other pricing information in this category. The CFPB also discussed how this provision would benefit consumers because they may not be able to easily find this information through a consumer interface today, and some data providers may not be consistently sharing it with third parties. The CFPB requested comment on whether the final rule should include more examples of information that must be made available under terms and conditions.
 
-## Comments
-
 Data provider commenters generally did not dispute including APR and APY as examples of covered data, although a few opposed sharing that information. Some bank data
 
 provider and related trade association commenters opposed including information other than realized fees, such as applicable fee schedule. Some data provider commenters opposed including other examples in the final rule, such as rewards program terms, overdraft opt-in status, and whether an account was subject to an arbitration agreement, arguing that such information falls within the exceptions in § 1033.221 or otherwise falls outside the CFPB's 1033 authority as it is not related to the covered consumer financial product or service and is not cost, charges, or usage data. One credit union trade association stated that arbitration information will make consumers targets for predatory attorneys and contradicts statements in a separate CFPB rulemaking regarding covered form contracts used by nonbanks.
@@ -1101,8 +1053,6 @@ they can use and retain under § 1033.421(a), the privacy concerns are limited i
 
 The CFPB proposed in § 1033.211(e) to require upcoming bill information to be made available as covered data. An example explained that upcoming bill information would include information about third party bill payments scheduled through the data provider and any upcoming payments due from the consumer to the data provider. For example, it would include the minimum amount due on the data provider's credit card billing statement, or a utility payment scheduled through a depository institution's online bill payment service. The CFPB preliminarily concluded that this information would be necessary to support personal financial management and consumers who are switching accounts. The CFPB requested comment on whether this category was sufficiently detailed to support situations where a consumer is trying to switch recurring bill payments to a new asset account, such as transferring a monthly credit card payment to a new bank.
 
-## Comments
-
 Some data provider commenters stated that upcoming bill information should not be included or should be significantly narrowed. These commenters asserted that this information is outside the CFPB's section 1033 statutory authority, is burdensome to collect and share, is unrelated to the covered consumer financial product or service, is sensitive because it contains payee data, is subject to change, and would not support account switching. A few data providers stated that it is unclear whether this information also includes payments scheduled through a third party, rather than being limited to bill payments scheduled through the data provider's platform. One data provider commenter stated that this information should be excluded as
 
 confidential commercial information because contracts with billers and bill service provider prohibit its disclosure. One commenter stated that this information should be limited to bills related to financial products, like mortgage bills.
@@ -1126,8 +1076,6 @@ loan applicant; matching information helps ensure that the funds are going to th
 The CFPB considered whether to include SSNs as part of basic account verification information, as SSNs are shared for some beneficial consumer use cases, like mortgage underwriting. However, the sharing of SSNs is not ubiquitous. The CFPB preliminarily concluded that SSNs may continue to be shared as appropriate but, given the risks to consumers, the proposed rule did not require data providers to make them available.
 
 The CFPB requested comment on whether the proposed basic account verification information category would accommodate or unduly interfere with beneficial consumer use cases. Given privacy and security concerns about unintentionally covering other kinds of information that are not typically shared today, the CFPB also requested comment on whether it is appropriate to limit this category to only a few specific pieces of information.
-
-## Comments
 
 Both consumer advocate and bank data providers generally supported the CFPB's approach to allowing some basic account verification information but limiting the category to specified data fields. These commenters agreed that this approach would appropriately balance supporting common beneficial use cases with limiting consumer privacy risks and data provider
 
@@ -1160,8 +1108,6 @@ The final exception was for any information that a data provider cannot retrieve
 The CFPB explained that the definition of covered data in § 1033.211 would generally include information made available to consumers and authorized third parties today or that is required to be disclosed under other laws. The CFPB noted that the exceptions proposed in § 1033.221 were narrow, and the information specified as covered data would not typically qualify for any of these exceptions.
 
 The CFPB requested comment on whether it should include additional examples of data that would or would not fall within the exceptions, and whether this provision sufficiently mitigates concerns that data providers may cite these exceptions on a pretextual basis.
-
-## Comments
 
 Comments on the exceptions took a variety of positions. With respect to the CFPB's implementation of the statutory exceptions overall, some data provider and related trade association commenters asked the CFPB to add more examples of excepted information and expand the exception provisions. These commenters stated that the statutory exceptions should be interpreted broadly to allow data providers discretion in denying access to covered data. One
 
@@ -1413,8 +1359,6 @@ industry standard, or, in the absence of such a standard, if it makes available 
 
 The CFPB did not propose a definition of "format," requesting comment on whether one is needed and whether the term should be defined to mean the specifications for data fields, status codes, communication protocols, or other elements to ensure third party systems can communicate with the developer interface. The CFPB also requested comment on the above safe harbors that it proposed.
 
-## Comments
-
 All commenters, including data providers, third parties, and consumer advocates, that addressed the proposed requirement that the developer interface make available covered data in a standardized format supported it. Further, all commenters that addressed the CFPB's request for comment stated that the rule should include a definition of format and that the definition should
 
 include, in addition to data field specifications, a data model and communication protocol for requests and responses for covered data to be exchanged.$^{66}$ Commenters stated that this broader approach to the standardized format requirement would help effectuate interoperability to support data sharing. Several data provider commenters stated that the rule should also apply its standardized format requirement to data aggregators. They argued that doing so would encourage competition and benefit consumers by facilitating the ability of an authorized third party to switch data aggregators.
@@ -1473,8 +1417,6 @@ The CFPB proposed in § 1033.311(c)(1)(i)(A) that responses by and queries to th
 
 consensus standard would be an indication that the amount and notice of downtime were reasonable.
 
-## Comments
-
 Both third party and data provider commenters expressed certain concerns about the CFPB's proposed quantitative minimum requirements. Third party commenters generally supported the adoption of minimum quantitative performance requirements, but they saw the proposed rule as not including a broad enough set of such requirements. Those requirements it did include they described as too lax because they were below the performance levels actually being achieved in the market under third parties' extant data access agreements with data providers. They argued that the rule as proposed could unintentionally cause a race to the bottom in performance levels. More specifically, they argued that the proposed 3,500 millisecond response time was too slow and too vague. They suggested a better requirement would take the form "less than x milliseconds at least x percent of the time" and should be stricter for certain data request types, such as for authorization or account balance. Third parties also wanted quantified maximum scheduled downtimes and minimum advance notice of such downtimes.
 
 Data provider commenters opposed the CFPB's adoption of minimum quantitative performance requirements. While not addressing current actual interface performance under their extant data access agreements, they asserted that the proposed 99.5 percent response rate would be too onerous and would impose costs without commensurate consumer benefit, particularly with respect to smaller providers that have fewer consumer account holders and that today do not have any developer interfaces. They also asserted that the proposed provisions underlying the response rate-such as downtimes, notices thereof, and 3,500 millisecond response times-were unclear and that the CFPB did not provide a sufficient factual justification for them. They
@@ -1516,8 +1458,6 @@ Indicia of compliance (§ 1033.311(c)(2))
 ## Proposal
 
 The CFPB proposed in § 1033.311(c)(1)(ii) two indicia of whether performance of the interface is commercially reasonable. The first was whether performance meets the applicable performance specifications set forth in a qualified industry standard. The second was whether the interface's performance meets the applicable performance specifications achieved by the developer interfaces established and maintained by similarly situated data providers. As with the quantitative minimum discussed above, the CFPB proposed these indicia pursuant to its preliminary determination that the performance of data providers' developer interfaces should improve over time and become more consistent and predictable. The CFPB requested comment on whether additional indicia would be appropriate and, if so, what they should be. The CFPB also requested comment on whether the final rule, instead of referring broadly to "applicable performance specifications," should name and describe certain specifications, such as the latency and uptime.
-
-## Comments
 
 Data provider commenters opposed the indicia. They stated that the requirement of commercially reasonable performance is sufficient and appropriate in and of itself. They further argued that qualified industry standards should not serve as indicia of commercially reasonable performance because the general purpose of standards has traditionally been interoperability and the level of developer interface performance does not relate to interoperability. If qualified industry standards were to serve for measuring commercially reasonable performance, however, many data providers thought they should serve as a safe harbor to give providers greater compliance certainty. They also argued that the performance of similarly situated providers'
 
@@ -1646,8 +1586,6 @@ In proposing to allow data providers to deny access based on risk management con
 The proposal also sought to illuminate various aspects of proposed § 1033.321's operation. For example, the CFPB generally described denials of access as applicable to third parties or consumers, rather than to specific data fields requested by third parties or consumers. This was because, in the CFPB's view, third parties are in the best position to determine what covered data are reasonably necessary to provide the consumer's requested product or service. See 88 FR 74796, 74823 (Oct. 31, 2023). And the CFPB explained that the exceptions under CFPA section 1033, set forth in proposed § 1033.221, generally would not be appropriate for data providers to use to address risk management concerns. See 88 FR 74796, 74820 (Oct. 31, 2023).
 
 The CFPB requested comment on additional ways to harmonize the risk management obligations of data providers with CFPA section 1033's data access right for consumers and authorized third parties. The CFPB also requested comment on the extent to which CFPB rules or guidance, or other sources, should address whether a data provider's denial of third party access to a developer interface under § 1033.321(a) would be reasonable with respect to any particular risk management practices.
-
-## Comments
 
 The CFPB received numerous comments on this proposed provision. Several commenters, mostly data providers and data provider associations, said the proposal properly incorporates third party risk management principles to third party access. Many data provider commenters asserted that their prudential regulators expect a relatively high degree of vetting of third parties accessing data with consumer authorization. Several data provider commenters, and a research institute commenter, stated that third party risk management obligations applied even to third party relationships not initiated by the data provider.
 
@@ -1847,8 +1785,6 @@ Finally, under proposed § 1033.331(b)(1)(iv), a data provider would need to rec
 
 The CFPB requested comment on the potential for technology to evolve such that a data provider could satisfy appropriate data security and other risk management standards without receiving a consumer's account credentials directly from the consumer. The CFPB also requested comment on whether clarifications are needed regarding what information would be sufficient to confirm the third party has followed the authorization procedures in the context of automated requests received through a developer interface. Finally, the CFPB requested comment on whether additional clarifications or procedures are needed to ensure a data provider does not design its developer interface to receive information sufficient to satisfy the conditions set forth in proposed § 1033.331(b)(1) but in a way that frustrates the ability of authorized third parties to receive timely responses to requests for covered data.
 
-## Comments
-
 A consumer advocate commenter supported the proposed conditions in § 1033.331(b)(1) for data providers to verify a third party's authorization to access consumer data and authenticate the identity of third parties before they make available covered data. However, this commenter, along with others, seemed to interpret proposed § 1033.331(b)(1) as setting forth strict
 
 requirements, as opposed to conditions that define the trigger for when a request must be responded to by a data provider, which data provider commenters were concerned would be overly burdensome with respect to confirming a third party's authorization. This concern was twofold: (1) data providers would not have actual knowledge of how the third party received authorization, which they suggested could have been gathered through unfair, deceptive or abusive third party authorization procedures; and (2) confirming that every authorized third party complied with the authorization procedures would be resource-intensive. Further, bank commenters that interpreted the provision to be an obligation were generally unclear as to what was required of them to authenticate the consumer or third party or to confirm the third party followed the proposed § 1033.401 authorization procedures.
@@ -1930,8 +1866,6 @@ The CFPB proposed in § 1033.331(e) to permit a data provider to make available 
 The proposal stated that this provision, along with the proposed third party revocation requirements in § 1033.421(h), were intended to ensure consumers would have multiple outlets through which they could revoke third party authorization to access covered data. But the CFPB preliminarily determined that requiring data providers to make a revocation method available might burden smaller entities. The proposed rule also noted that stakeholders had expressed concerns during SBREFA about anticompetitive behaviors from data providers. Accordingly, the proposed rule would not have permitted data providers to make available a method through which the consumer could partially revoke a third party's access to covered data, as this would be inconsistent with proposed § 1033.201(a), requiring data providers to make covered data available upon request based on the terms of the consumer's authorization. The proposed rule stated that partial revocations could result in consumers losing utility of data access for certain use cases. To further account for anticompetitive concerns, proposed § 1033.331(e) included a
 
 list of non-exhaustive requirements to ensure the optional revocation method would be reasonable, which were drawn from the definition of "information blocking" in section 3022(a) of the Public Health Service Act. The proposed rule stated that this language would promote consumers' ability to access and share their data by ensuring data providers do not impose obstacles that effectively evade their obligations to make available covered data under CFPA section 1033. Regarding the proposed notification requirement, the proposed rule explained that a third party whose authorization to access data is revoked by a consumer would need to understand that the consumer has chosen to end their authorization, and that the data provider did not terminate the access for another reason.
-
-## Comments received
 
 The concept of revocation, including permitting data providers to provide consumers with a revocation method, received general support from commenters, with many agreeing that consumers benefit significantly from multiple opportunities to revoke third party authorizations. Some commenters, including a consumer advocate, a trade association for banks, and a third party commenter, stated that the CFPB should require, rather than permit, revocation through a data provider. A trade association for data providers stated that requiring revocation through data providers would not be a burden for smaller entities because core processors can supply interfaces that include revocation methods.
 
@@ -2551,8 +2485,6 @@ consumer control and understanding. The CFPB also preliminarily determined that 
 
 The CFPB explained that proposed § 1033.421(a)(2) would not prevent third parties from engaging in the specified activities as standalone products. To the extent the core function that the consumer seeks out in the market is such an activity, a third party could potentially provide that core function to the consumer consistent with, and subject to, the terms of the proposed rule. Any such offering would be subject to other applicable laws, including the CFPA's prohibition on unfair, deceptive, and abusive practices.
 
-## Comments received
-
 Commenter feedback on the proposed limitation on targeted advertising, cross-selling of other products or services, and data sales was varied. Some consumer advocates, data providers, and trade associations representing data providers expressed support for the proposed limitation in § 1033.431(a)(2). For example, some trade associations representing data providers stated that dark patterns or other deceptive practices from third parties result in consumers giving consent to activities consumers are not aware of, especially related to data sales and targeted marketing, and that requiring third parties to separately follow the authorization procedures to obtain consumer authorizations for these activities would be beneficial to consumers. An individual commenter similarly stated that consumers should not become subject to "surveillance capitalism" through authorization of third parties' use of covered data.
 
 Various commenters, including trade associations for data providers, data providers, trade associations for nondepositories, data aggregators, consumer advocates, and others, appeared to
@@ -2678,8 +2610,6 @@ Further, for clarity, proposed § 1033.421(c) provided the following examples of
 The proposed rule also sought feedback on whether the final rule should permit third parties to solicit consumers' opt-in consent to some secondary uses of consumer data to provide flexibility to third parties while maintaining important consumer protections. For example, the proposed rule sought feedback on whether the final rule should permit third parties to solicit consumers' opt-in consent to secondary uses as part of a third party's authorization to access covered data, while requiring third parties to certify not to use covered data for certain higher-
 
 econdary uses. The proposed rule also sought feedback on whether the final rule should permit third parties to solicit a consumer's opt-in consent to engage in secondary uses with deidentified data, and if so, what de-identification standard the rule should provide. The proposed rule sought feedback on how any opt-in approach could be structured to ensure that consumers are providing express informed consent to any secondary data uses, and whether the proposed authorization disclosure would be an appropriate vehicle for soliciting granular consumer choices about data use, such as through a secondary use opt-in mechanism. Finally, the proposed rule sought feedback on how opt-in mechanisms could be implemented to prevent third parties from using "dark patterns" or deceptive practices aimed at soliciting consumer consent.
-
-## Comments received
 
 Commenter feedback on the proposed limitation on use was varied. Regarding the examples in proposed § 1033.421(c), many commenters, including third parties and third party trade associations, privacy organizations, Members of Congress, and data aggregators, requested that the CFPB specify additional uses that would be permissible under the final rule. Other examples of additional uses that commenters requested the CFPB specify in the final rule included product improvement, new product development, prevention of crime or illegality, offering beneficial products or services to consumers, supplemental primary uses, reporting of data, and internal and external research. Some research institutes, a third party, and a trade association raised concerns about the proposed examples of reasonably necessary uses set forth in proposed § 1033.421(c), and specifically raised concerns that the example for servicing or processing the consumer's requested product or service was too narrow. These commenters suggested additions that would broaden that example, like "assessing the consumer's eligibility for or delivering, servicing, or processing the product or service the consumer requested,"
 
@@ -2922,8 +2852,6 @@ The proposed rule stated that, while use and retention of covered data will not 
 the general standard in proposed § 1033.421(a) even as the consumer no longer makes use of the product in any manner that would require continued data collection.
 
 The proposed rule explained that the CFPB preliminarily determined that proposed § 1033.421(b)(4)(ii) and (h)(3)(ii) would provide third parties with sufficient flexibility to address circumstances in which continued use or retention of previously collected data might be permitted under the general standard in proposed § 1033.421(a), while ensuring that consumer data are not used and retained in a manner that does not properly reflect the control afforded the consumer under that same general standard.
-
-## Comments received
 
 Support for the standard in proposed § 1033.421(a) included support for the general limitation principles as they would apply to third party retention of covered data. For example, a Member of Congress, a third party, and a trade association for data providers supported the general standard as it applies to retention. The third party stated that data should not be retained except to fulfill the service requested, while the trade association said cybersecurity risks increase when third parties can accumulate and store data.
 
@@ -4022,15 +3950,7 @@ U.S.C. 5481(15)(A)(xi); and 12 U.S.C. 5512(b)(1).
 
 ## § 1001.2 Definitions.
 
-*
 
-*
-
-*
-
-*
-
-*
 
 (b) Providing financial data processing products or services by any technological means, including processing, storing, aggregating, or transmitting financial or banking data, alone or in connection with another product or service, where the financial data processing is not offered or provided by a person who, by operation of 12 U.S.C. 5481(15)(A)(vii)(I) or (II), is not a covered person.
 
@@ -4538,21 +4458,3 @@ You may withdraw your application at any time or for any reason.
 If we determine that your organization is close to meeting, but does not yet meet, the requirements for CFPB recognition, we may ask you to provide a written plan specifying how and when you will take the steps required for full recognition. If that plan is satisfactory, we may state on our website that your organization has received contingent recognition. Once you
 
 provide us with evidence that you have successfully executed on that plan (or otherwise addressed the relevant contingences), the CFPB may extend full recognition.
-
-STEP FIVE: RECOGNITION
-
-There are several points to keep in mind about recognition.
-
-As a recognized standard setter, you agree that the CFPB may monitor your organization and that you will provide information that we request.
-
-You must also provide us, within 10 days, written explanation of any material change to information that was submitted with your application or during recognition, as well as any reason your organization may no longer meet underlying requirements for recognition.
-
-In addition, you must meet any other specified terms and conditions of your recognition, which may include our reserving the right to observe or participate in standard setting.
-
-If your recognition is set to expire, you can apply for re-recognition by re-starting at Step One at least 180 days before expiration. We may temporarily extend your recognition while we consider your request for re-recognition.
-
-We may modify or revoke your recognition. The CFPB expects to notify you of the reasons it intends to revoke or modify recognition, and to provide your organization with an opportunity to address the CFPB's concerns.
-
-## Rohit Chopra,
-
-Director, Consumer Financial Protection Bureau.
