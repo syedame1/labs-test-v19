@@ -79,35 +79,28 @@ Tip: Use traditional automation for predictable, single-path workflows. Adopt ag
 
 ## Scoring Rubrics
 
-## Autonomy Level (1 -10)
 
-## Score ## Criteria
+      ## Autonomy Level (1–10):
+      - 1 = Fully rule-based logic, no adaptation
+      - 3 = Basic conditional logic or branching
+      - 5 Tool use but requires direction for every step
+      - 7 Can plan steps, use tools, and respond to uncertainty
+      - 10 Full autonomy: end-to-end reasoning, tool chaining, retries
 
-- 1 Fully rule-based logic, no adaptation
-- 3 Basic conditional logic or branching
-- 5 Tool use but requires direction for every step
-- 7 Can plan steps, use tools, and respond to uncertainty
-- 10 Full autonomy: end-to-end reasoning, tool chaining, retries
+      ## Decision Complexity (1–10)
+      - 1 = Linear path, no ambiguity
+      - 3 = Basic branching or decision rules
+      - 5 = Some unstructured inputs or fallback handling
+      - 7 = Multi-step reasoning, tool orchestration
+      - 10 = Multi-turn logic, adaptive branching, planning across context
 
-## Decision Complexity (1 -10)
+      ## Integration Feasibility (1–10)
+      - 1 = Local or frontend-only execution
+      - 3 = One or two backend APIs with known schema
+      - 5 = Persistent state tracking, PII access
+      - 7 = Multi-system orchestration or compliance constraints
+      - 10 = Mission-critical integration, regulated environments
 
-## Score ## Criteria
-
-- 1 Linear path, no ambiguity
-- 3 Basic branching or decision rules
-- 5 Some unstructured inputs or fallback handling
-- 7 Multi-step reasoning, tool orchestration
-- 10 Multi-turn logic, adaptive branching, planning across context
-
-## Integration Feasibility (Optional)
-
- ## Score  ## Criteria
-
-- 1 Local or frontend-only execution
-- 3 One or two backend APIs with known schema
-- 5 Persistent state tracking, PII access
-- 7 Multi-system orchestration or compliance constraints
-- 10 Mission-critical integration, regulated environments
 
 ## Agent Architecture
 
