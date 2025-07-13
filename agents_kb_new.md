@@ -1,4 +1,4 @@
-## Title: A Practical Guide to Building Agentic AI vs Traditional Automation Systems
+## A Practical Guide to Building Agentic AI vs Traditional Automation Systems
 
 This guide provides a clear framework for distinguishing between use cases best suited for:
 
@@ -13,7 +13,7 @@ It includes scoring rubrics for:
 
 This guide is designed to support model fine-tuning, use-case classification, and human evaluation workflows.
 
----
+
 
 ## What is an Agent?
 
@@ -24,7 +24,7 @@ An agent is a system that independently executes a workflow on behalf of a user,
 - A structured set of instructions or policies
 - Memory or contextual awareness across turns or decisions
 
----
+
 
 ## What is Traditional Automation?
 
@@ -35,22 +35,18 @@ Traditional automation refers to software systems that follow a fixed set of det
 - Executes the same path if input conditions are the same
 - Cannot learn from feedback or context
 
----
-
 ## What is a Workflow?
 
 A workflow is a sequence of steps that must be executed to meet the user's goal—whether that's resolving a customer service issue, booking a restaurant reservation, committing a code change, or generating a report.
 
 Applications that integrate LLMs but don’t use them to control workflow execution (e.g., simple chatbots, single-turn LLMs, sentiment classifiers) are not agents.
 
----
 
 ## Key Characteristics of an Agent
 
 1. **LLM-driven decision-making**: Executes workflows, detects completion, halts on failure, or transfers control.
 2. **Tool access**: Selects tools dynamically based on context and operates within guardrails.
 
----
 
 ## When Should You Build an Agent?
 
@@ -64,7 +60,6 @@ Build agents for workflows where traditional methods fail due to:
 
 If your use case doesn’t meet these, a deterministic approach may be more efficient.
 
----
 
 ## When to Use Agentic AI vs Automation
 
@@ -77,7 +72,7 @@ If your use case doesn’t meet these, a deterministic approach may be more effi
 | Fallback or Retry Logic    | Required                                 | Rare or hardcoded                    |
 | Examples                   | Voice assistant, refund approval         | Invoice generation, ETL scheduling   |
 
----
+
 
 ## A Simple IF–THEN Workflow Is Not Enough When...
 
