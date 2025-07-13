@@ -101,7 +101,7 @@ Tip: Use traditional automation for predictable, single-path workflows. Adopt ag
 
 ## Integration Feasibility (Optional)
 
- ##Score  ## Criteria
+ ## Score  ## Criteria
 
 - 1 Local or frontend-only execution
 - 3 One or two backend APIs with known schema
@@ -162,7 +162,7 @@ Some workflows blend both traditional automation and agentic reasoning. These hy
 
 ### Hybrid Decision Flow Table
 
-| Indicators|| Workflow Type|
+| Indicators| Workflow Type|
 ----------------------|-----------------------------------------------------------------------|
 | Traditional Only| Fixed rules, no ambiguity, static paths|
 | Agentic Only| Unstructured input, tool selection, reasoning over data|
