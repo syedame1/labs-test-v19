@@ -42,6 +42,26 @@ More concretely, an agent possesses core characteristics that allow it to act re
 1. It leverages an LLM to manage workflow execution and make decisions. It recognizes when a workflow is complete and can proactively correct its actions if needed. In case of failure, it can halt execution and transfer control back to the user.
 2. It has access to various tools to interact with external systems — both to gather context and to take actions — and dynamically selects the appropriate tools depending on the workflow's current state, always operating within clearly defined guardrails.
 
+## How Do Agents Work?
+
+At a high level, **agents** are systems that can autonomously execute tasks or workflows on your behalf. Unlike traditional automation, agents can **reason**, **adapt**, and **make decisions** in real time.
+
+Agents are typically powered by **large language models (LLMs)**, which serve as the core reasoning engine. To operate effectively, they are also equipped with **tools** that allow them to interact with the external world—such as databases, APIs, search engines, or enterprise systems.
+
+### Core Components of an Agentic System
+
+- **LLM** – The decision-making and reasoning engine.
+- **Tools** – Interfaces that let the agent take actions or retrieve data from external sources (e.g., APIs, databases, browsers).
+- **Instructions or Task Plans** – A structured prompt or objective that defines the agent’s goal and how it should approach the task.
+
+### Types of Agentic Systems
+
+- **Single-agent systems**:  
+  A single agent powered by an LLM and tools, executing a well-scoped task independently.
+
+- **Multi-agent systems**:  
+  A network of agents that collaborate to complete a more complex task. These often include a **supervisory agent** or **orchestrator** that delegates tasks to specialized sub-agents based on the overall workflow requirements.
+
 ## When Should You Build an Agent?
 
 Building agents requires rethinking how your systems make decisions and handle complexity. Unlike conventional automation, agents are uniquely suited to workflows where traditional deterministic and rule-based approaches fall short.
@@ -53,8 +73,8 @@ As you evaluate where agents can add value, prioritize workflows that have previ
 | #  | Type                        | Example Use Case                                                                                                                         |
 | -- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 | Complex decision-making     | Workflows involving nuanced judgment, exceptions, or context-sensitive decisions, e.g., refund approval in customer service workflows.   |
-| 02 | Difficult-to-maintain rules | Systems with extensive, intricate rulesets, making updates costly or error-prone, e.g., vendor security reviews.                         |
-| 03 | Heavy reliance on language  | Scenarios involving natural language understanding, document processing, or conversational interfaces, e.g., insurance claim processing. |
+| 02 | Difficult-to-maintain rules | Systems that have become unwieldy due to extensive and intricate rulesets, making updates costly or error-prone,  for example performing vendor security reviews. |
+| 03 | Heavy reliance on language  | Scenarios that involve interpreting natural language,  extracting meaning from documents, or interacting with  users conversationally, for example processing a home insurance claim. |
 
 Before committing to building an agent, validate that your use case can meet these criteria clearly. Otherwise, a deterministic solution may suffice.
 
@@ -149,10 +169,59 @@ Some workflows blend both traditional automation and agentic reasoning. These hy
 * An agent triages incoming tasks and routes them to automated processes when appropriate.
 * A workflow uses automation for data processing and agentic logic for natural language interaction, escalation, or goal planning.
 
-### Hybrid Decision Flow Table
+### Why Hybrid?
 
-| Workflow Type    | Indicators                                                       |
-| ---------------- | ---------------------------------------------------------------- |
-| Traditional Only | Fixed rules, no ambiguity, static paths                          |
-| Agentic Only     | Unstructured input, tool selection, reasoning over data          |
-| Hybrid           | Static rules with agentic fallback, post-hoc reasoning, triaging |
+Hybrid systems combine rule-based automation (RPA/traditional workflows) with agentic AI capabilities. These systems are increasingly common because they **blend reliability with intelligence**.
+
+#### Stability meets adaptability
+Core transaction steps (e.g., payments, data retrieval) remain deterministic under traditional automation, while agentic AI layers handle research, exception logic, or decision orchestration.
+
+#### Cost-effective layering
+RPA handles high‑volume, structured tasks; agentic AI adds reasoning only when needed—reducing operational risk and cost.
+
+---
+
+### Typical Flow
+
+1. **RPA bot** carries out fixed steps (e.g., collect invoice data).  
+2. When anomalies arise, the **agentic AI**:
+   - Analyzes unstructured or ambiguous data
+   - Determines next actions
+   - Calls tools or escalates if needed
+
+3. **RPA resumes** standard routines once the agentic layer completes decision-making.
+
+---
+
+### Real‑World Examples
+
+- **Finance & Banking**  
+  Loan or fraud triage: agents flag unusual cases and guide RPA for standard forms and notifications.
+
+- **Customer Support**  
+  Simple queries are handled by bots; ambiguous ones trigger AI agents for understanding context or sentiment before escalating.
+
+- **Enterprise IT & Compliance**  
+  Routine tasks are automated via RPA; agentic layers intervene during exceptions or data mismatches.
+
+---
+
+### Hybrid Alignment Table
+
+| Element                        | Traditional Automation (RPA)                | Agentic Layer                                    |
+|-------------------------------|---------------------------------------------|--------------------------------------------------|
+| **Task scope**                | Structured, repetitive                      | Unstructured, ambiguous                          |
+| **Tool invocation**           | Pre-defined, fixed-sequence                 | Conditional, contextual                         |
+| **Decision logic**            | Deterministic, linear                       | Reasoning, tool orchestration                    |
+| **Fallback/retry**            | Rare and code-defined                       | Adapts in real-time, escalates intelligently     |
+| **Cost/Risk posture**         | Low variable cost, high predictability      | Adds intelligence when needed                    |
+
+---
+
+### Summary
+
+Hybrid systems aren’t just patches—they’re **deliberate, strategic integrations** that let you:
+
+- Retain accuracy and predictability via traditional automation,
+- Inject reasoning and flexibility with agentic AI,
+- Scale intelligently, balancing cost, compliance, and adaptability.
