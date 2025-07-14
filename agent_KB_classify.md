@@ -70,7 +70,7 @@ Consider the example of payment fraud analysis. A traditional rules engine works
 
 As you evaluate where agents can add value, prioritize workflows that have previously resisted automation, especially where traditional methods encounter friction:
 
-| #  | Type                        | Example Use Case                                                                                                                         |
+| #  | Type                        | Example Use Case for building Agents                                                                                                                         |
 | -- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 | Complex decision-making     | Workflows involving nuanced judgment, exceptions, or context-sensitive decisions, e.g., refund approval in customer service workflows.   |
 | 02 | Difficult-to-maintain rules | Systems that have become unwieldy due to extensive and intricate rulesets, making updates costly or error-prone,  for example performing vendor security reviews. |
