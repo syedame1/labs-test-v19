@@ -73,8 +73,8 @@ As you evaluate where agents can add value, prioritize workflows that have previ
 | #  | Type                        | Example Use Case for building Agents                                                                                                                         |
 | -- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 | Complex decision-making     | Workflows involving nuanced judgment, exceptions, or context-sensitive decisions, e.g., refund approval in customer service workflows.   |
-| 02 | Difficult-to-maintain rules | Systems that have become unwieldy due to extensive and intricate rulesets, making updates costly or error-prone,  for example performing vendor security reviews. |
-| 03 | Heavy reliance on language  | Scenarios that involve interpreting natural language,  extracting meaning from documents, or interacting with  users conversationally, for example processing a home insurance claim. |
+| 02 | Difficult-to-maintain rules | Systems that have become unwieldy due to extensive and intricate rulesets, making updates costly or error-prone, for example performing vendor security reviews. |
+| 03 | Heavy reliance on language  | Scenarios that involve interpreting natural language, extracting meaning from documents, or interacting with users conversationally, for example processing a home insurance claim. |
 
 Before committing to building an agent, validate that your use case can meet these criteria clearly. Otherwise, a deterministic solution may suffice.
 
