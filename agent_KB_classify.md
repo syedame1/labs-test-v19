@@ -9,7 +9,7 @@ It includes scoring rubrics for:
 
 * Autonomy Level
 * Decision Complexity
-* (Optional) Integration Feasibility
+* Integration Feasibility
 
 This guide is designed to support model fine-tuning, use-case classification, and human evaluation workflows.
 
@@ -63,7 +63,7 @@ Agents are typically powered by **large language models (LLMs)**, which serve as
   A network of agents that collaborate to complete a more complex task. These often include a **supervisory agent** or **orchestrator** that delegates tasks to specialized sub-agents based on the overall workflow requirements.
 
 
-## Expert-Level Agent Design Insights (OpenAI, Google, Stanford)
+## Expert-Level Agent Design Insights
 
 To align with state-of-the-art guidance from OpenAI’s Agent Playbook, Google’s Agent Design Kit (ADK), and Stanford CRFM's Autonomy Framework, consider the following enhancements to agent classification and reasoning:
 
